@@ -1,2 +1,2 @@
-# NirLauncher---Windows
+# NirLauncher - Windows
 NirLauncher - Windows
